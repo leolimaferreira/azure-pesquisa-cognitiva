@@ -42,23 +42,32 @@ Este repositório contém um guia passo a passo para configurar e utilizar o **A
 
 ---
 
-### ** 🔍 Insights e Benefícios ** 
-#### ✅ Automação de Extração de Informações
-#### O sistema transforma dados brutos em insights de forma automatizada.
+## **🔍 Insights e Benefícios** 
+### ✅ Automação de Extração de Informações
+### O sistema transforma dados brutos em insights de forma automatizada.
 
-#### ✅ Inteligência Artificial Aplicada
-#### Enriquecimento de dados via NLP, análise de sentimentos, tradução e OCR.
+### ✅ Inteligência Artificial Aplicada
+### Enriquecimento de dados via NLP, análise de sentimentos, tradução e OCR.
 
-#### ✅ Fácil Integração com Outras Ferramentas
-#### Pode ser usado com Power BI, bots, dashboards interativos e assistentes virtuais.
+### ✅ Fácil Integração com Outras Ferramentas
+### Pode ser usado com Power BI, bots, dashboards interativos e assistentes virtuais.
 
-#### ✅ Escalabilidade e Performance
-#### Capacidade de lidar com milhões de registros e buscas em tempo real.
+### ✅ Escalabilidade e Performance
+### Capacidade de lidar com milhões de registros e buscas em tempo real.
 
 ---
 
-### ** 🛠 Ferramentas e Casos de Uso **
-#### 💡 E-commerce – Pesquisa avançada de produtos e avaliações de clientes.
-#### 💡 Atendimento ao Cliente – Extração de insights de tickets de suporte.
-#### 💡 Pesquisa Acadêmica e Jurídica – Busca eficiente em documentos técnicos.
-#### 💡 Monitoramento de Redes Sociais – Análise de tendências e sentimentos.
+## **🛠 Ferramentas e Casos de Uso**
+### 💡 E-commerce – Pesquisa avançada de produtos e avaliações de clientes.
+### 💡 Atendimento ao Cliente – Extração de insights de tickets de suporte.
+### 💡 Pesquisa Acadêmica e Jurídica – Busca eficiente em documentos técnicos.
+### 💡 Monitoramento de Redes Sociais – Análise de tendências e sentimentos.
+
+--- 
+
+## **🎓 Aprendizados Durante o Processo**
+### 🔹 A qualidade dos dados é essencial – Dados bem estruturados garantem buscas mais eficientes.
+### 🔹 Filtros e relevância melhoram os resultados – Parâmetros como localização, data e palavras-chave refinam as buscas.
+### 🔹 Segurança e Controle de Acesso – Definir permissões adequadas protege as informações indexadas.
+
+
