@@ -40,7 +40,9 @@ Este repositório contém um guia passo a passo para configurar e utilizar o **A
  ```
 - Retorna avaliações com sentimento positivo maior que 0.5 (se o índice tiver uma análise de sentimentos baseada em NLP).
 
-### 🔍 Insights e Benefícios
+---
+
+### ** 🔍 Insights e Benefícios ** 
 #### ✅ Automação de Extração de Informações
 #### O sistema transforma dados brutos em insights de forma automatizada.
 
@@ -52,3 +54,11 @@ Este repositório contém um guia passo a passo para configurar e utilizar o **A
 
 #### ✅ Escalabilidade e Performance
 #### Capacidade de lidar com milhões de registros e buscas em tempo real.
+
+---
+
+### ** 🛠 Ferramentas e Casos de Uso **
+#### 💡 E-commerce – Pesquisa avançada de produtos e avaliações de clientes.
+#### 💡 Atendimento ao Cliente – Extração de insights de tickets de suporte.
+#### 💡 Pesquisa Acadêmica e Jurídica – Busca eficiente em documentos técnicos.
+#### 💡 Monitoramento de Redes Sociais – Análise de tendências e sentimentos.
